@@ -1,0 +1,7 @@
+S
+S => E
+E => T,+,E
+E => T
+T => int,*,T
+T => int
+T => (,E,)
